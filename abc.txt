@@ -1,2 +1,7 @@
 adding new file
+<<<<<<< HEAD
 adding content.
+=======
+adding content
+more content
+>>>>>>> e96672a361c70dff33dd996364595453da6ec631
